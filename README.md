@@ -96,4 +96,5 @@ Dreamy_Bites_Case_Study_Brief.docx — original project brief
 README.md — this write-up
 
 Case study based on the Dreamy Bites project brief. #PowerBI #DataAnalytics #DAX #DataIntegration
-Add case study write-up and dashboard screenshot
+
+Add case study write-up
